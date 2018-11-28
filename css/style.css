@@ -1,9 +1,3 @@
-/*
-  Theme Name: Regna
-  Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -14,11 +8,11 @@ body {
 }
 
 a {
-  color: #2dc997;
+  color: #008000;
 }
 
 a:hover, a:active, a:focus {
-  color: #2dca98;
+  color: #008000;
   outline: none;
   text-decoration: none;
 }
@@ -74,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #2dc997;
+  background: #008000;
   color: #fff;
 }
 
@@ -220,8 +214,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #2dc997;
-  border: 2px solid #2dc997;
+  background: #008000;
+  border: 2px solid #008000;
 }
 
 /*--------------------------------------------------------------
@@ -319,7 +313,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #2dc997;
+  background-color: #008000;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -356,7 +350,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu ul li a:hover {
-  background: #2dc997;
+  background: #008000;
   color: #fff;
 }
 
@@ -444,11 +438,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #2dc997;
+  color: #008000;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #2dc997;
+  color: #008000;
 }
 
 #mobile-body-overly {
@@ -552,11 +546,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   flex-direction: column;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #2dc997;
+  border: 2px solid #008000;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #2dc997;
+  color: #008000;
   font-size: 24px;
 }
 
@@ -589,7 +583,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #facts .counters span {
   font-size: 48px;
   display: block;
-  color: #2dc997;
+  color: #008000;
 }
 
 #facts .counters p {
@@ -633,7 +627,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   width: 72px;
   height: 72px;
-  background: #2dc997;
+  background: #008000;
 }
 
 #services .icon a {
@@ -645,17 +639,17 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 24px;
 }
 
-#services .box:hover .icon {
+/* #services .box:hover .icon {
   background: #fff;
-  border: 2px solid #2dc997;
+  border: 2px solid #008000;
 }
 
 #services .box:hover .icon i {
-  color: #2dc997;
-}
+  color: #008000;
+} */
 
 #services .box:hover .icon a {
-  color: #2dc997;
+  color: #008000;
 }
 
 #services .title {
@@ -717,8 +711,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #call-to-action .cta-btn:hover {
-  background: #2dc997;
-  border: 2px solid #2dc997;
+  background: #008000;
+  border: 2px solid #008000;
 }
 
 /* Portfolio Section
@@ -756,7 +750,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  background: #2dc997;
+  background: #008000;
   color: #fff;
 }
 
@@ -782,7 +776,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item .details {
   height: 50px;
-  background: #2dc997;
+  background: #008000;
   position: absolute;
   width: 100%;
   height: 50px;
@@ -856,7 +850,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .social a:hover {
-  color: #2dc997;
+  color: #008000;
 }
 
 #team .member .social i {
@@ -883,7 +877,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #2dc997;
+  color: #008000;
   float: left;
 }
 
@@ -905,7 +899,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #2dc997;
+  background: #008000;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -917,13 +911,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .social-links a:hover {
-  background: #2dc997;
+  background: #008000;
   color: #fff;
 }
 
 #contact .form #sendmessage {
-  color: #2dc997;
-  border: 1px solid #2dc997;
+  color: #008000;
+  border: 1px solid #008000;
   display: none;
   text-align: center;
   padding: 15px;
@@ -960,7 +954,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #2dc997;
+  background: #008000;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -977,17 +971,22 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer {
   background: #343b40;
   padding: 30px 0;
-  color: #fff;
   font-size: 14px;
+  color: #fff;
 }
 
 #footer .built_by {
   text-align: center;
+  color: #fff;
 }
 
 #footer .credits {
   padding-top: 10px;
   text-align: center;
-  font-size: 13px;
-  color: #ccc;
+  font-size: 13px; 
+  color: #fff;
+}
+
+#footer .a {
+  color: #fff;
 }
